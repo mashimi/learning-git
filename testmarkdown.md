@@ -1,4 +1,4 @@
-## Git Commands 
+## Git Commands
 
 - **git checkout** - jump to another branch 
 - **git help** -manual for git commands 
@@ -27,5 +27,9 @@
 - **ll** - long list 
 - **ls** -la 
 - **rm -rf** - remove git folders + files 
+- **git rebase** - merge serveral commits to master bench 
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") 
 [Markdown-Here-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+
+[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
