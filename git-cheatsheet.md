@@ -1,4 +1,4 @@
-# Git Cheatsheet 
+# Git Cheatsheet <img align="right" src="https://www.joyofdata.de/blog/wp-content/uploads/2015/05/github.png">
 
 
 -------
