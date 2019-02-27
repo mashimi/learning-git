@@ -1,0 +1,5 @@
+pwd - show directory 
+ll - long list
+ls - look around in directory 
+man - manual /help
+cd - get into a directory 
