@@ -1,3 +1,13 @@
 test test test test 
 
 modify modify modify modify 
+    $ cp foo.txt /some/really/long/destination/bar.txt
+    $ cd !$:h
+    $ # (do more with ./bar.txt)
+
+The substitution (:s) and global substitution (:gs) modifiers are also useful:
+
+    $ echo some args
+    some args
+    $ !!:s/some/more
+    more args
