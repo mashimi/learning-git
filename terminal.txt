@@ -1,0 +1,6 @@
+5 basic terminal commands
+pwd 
+ls 
+cd
+mv
+cat
